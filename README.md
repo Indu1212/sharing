@@ -8,9 +8,9 @@ _this is also italic_
   
   ![Google](http://www.google.com)
   
-  ### gmail:
+  ### Gmail:
   
-  ![Gmail](http://www.mellempudiindu1212@gmail.com)
+  ![Gmail](mellempudiindu1212@gmail.com)
   
   ## image:
   

@@ -3,28 +3,35 @@
 **this is Bold**
 _this is also italic_
 <h1>hello<h1>
-  # lists
   
-  * item1
+  # links:
   
-  * item2
-  
-  * item3
-      * item4
-  
-  ## links:
-  
-  [Google](http://www.google.com)
+  ![Google](http://www.google.com)
   
   ### gmail:
   
-  [Gmail](http://www.mellempudiindu1212@gmail.com)
+  ![Gmail](http://www.mellempudiindu1212@gmail.com)
   
   ## image:
   
-  [image](https://tse1.mm.bing.net/th?id=OIP.CGdYTKvYr_wvrsWbVVE2HgHaEK&pid=Api&P=0&w=308&h=174)
-
+  ![image](https://tse1.mm.bing.net/th?id=OIP.CGdYTKvYr_wvrsWbVVE2HgHaEK&pid=Api&P=0&w=308&h=174)
 
 ## nature
 
-[Nature](https://tse3.mm.bing.net/th?id=OIP.4-TgQ0VRVc9f8B0JQ39fHwHaEK&pid=Api&P=0&w=298&h=168)
+![nature](https://tse3.mm.bing.net/th?id=OIP.4-TgQ0VRVc9f8B0JQ39fHwHaEK&pid=Api&P=0&w=298&h=168)
+
+# Block codes
+> This id block code
+
+## inline codes
+
+'Mic collage'
+
+# table creating
+
+item1  | technology
+-----  | ------------
+python | 100
+java   | 40
+
+:smile:

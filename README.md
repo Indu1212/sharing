@@ -10,7 +10,7 @@ _this is also italic_
   
   ### Gmail:
   
-  mail is (mellempudiindu1212@gmail.com)
+  (mellempudiindu1212@gmail.com)
   
   ## image:
   

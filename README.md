@@ -6,9 +6,9 @@ _this is also italic_
   
   # links:
   
-  ![Google](http://www.google.com)
+  [Google](http://www.google.com)
   
-  ### Gmail:
+  ## Gmail:
   
   (mellempudiindu1212@gmail.com)
   

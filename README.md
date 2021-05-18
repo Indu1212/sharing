@@ -14,8 +14,12 @@ _this is also italic_
   
   ## links:
   
-  [Google](www.google.com)
+  [Google](http://www.google.com)
   
   ### gmail:
   
-  [Gmail](mellempudiindu1212@gmail.com)
+  [Gmail](http://www.mellempudiindu1212@gmail.com)
+  
+  ## image:
+  
+  [image](https://tse1.mm.bing.net/th?id=OIP.CGdYTKvYr_wvrsWbVVE2HgHaEK&pid=Api&P=0&w=308&h=174)
